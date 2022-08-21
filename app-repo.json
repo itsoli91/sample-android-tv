@@ -1,6 +1,7 @@
 {
   "movies": [
     {
+      "id": 1,
       "title": "Top Gun: Maverick 2022",
       "description": "tom cruise,jennifer connelly,miles teller",
       "studio": "NA",
@@ -11,6 +12,7 @@
   ],
   "series": [
     {
+      "id": 100,
       "title": "House of the Dragon",
       "description": "The story of the Targaryen civil war that took place about 200 years before events portrayed in `Game of Thrones.'",
       "studio": "HBO",
@@ -18,6 +20,7 @@
       "backgroundImageUrl": "https://cdn-cloudflare.top/wp-content/uploads/2022/08/8Mrd6mUCfczEMIYEg8BeeT1mNuv.jpg",
       "episodes": [
         {
+          "id": 101,
           "title": "S01 E01",
           "videoUrl": "https://dl3.dgserver.site/st01/serie/House.of.the.Dragon/s01/House.of.the.Dragon.S01E01.1080p.10bit.WEBRip.x265.SoftSub.DigiMoviez.mkv?md5=nA7ZdZq-gIrjMV0uZFBEUA&expires=1661369532&uini=aTZTdCs0ZldlcEhLZ0hKNDgveEp2d0gxaWY5RmtaOVhFVWdGYWlGbzZpZHRvZ0Fxa3k1RFNRdW5NV1N6MUJTdDZDMXc2TjFqRFRiZnRvOGJFTTkwOHZwZHVFcXVYbE1qbFA0Y0puZFozSnpmdGRBNmhRMjNLcVpuNVN4WERsMVpLS3BmdGNjUzRyU2ZBYTAyMFR2U2VSNWFFL1BOYnVUL242SkpwVjdvVGxiUWtNdlA5S0xZN0piMXg2V3JTR1ZBRlljUm5iRGpRU05NcWYwY25LSThyc3dtcU5MWlNqUXlnM2NzMW5XZ2lpQUNTNkRqUm5LUjFYeDIwTHRFT1dkVllIWHQ4WmFIdTJIT1NpQkdqSlpkUTZ0Tzg0ZjNNbUVUc25iWGpZSjBsb0E9"
         }
